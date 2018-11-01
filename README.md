@@ -29,8 +29,12 @@ Git clone project link
 ```
 
 
+# Roadmap
 
+Planned features & enhancements are:
 
+* Have to save data in google spreadsheet
+* Send auto emails to professors
 
 ## Built With
 
@@ -45,7 +49,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * **Salahudin Malik** - *Initial work* - [SalahudinMalik](https://github.com/SalahuidnMalik)
 
-See also the list of [contributors](https://github.com/salahudinmalik/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/salahudinmalik/project) who participated in this project.
 
 ## License
 
