@@ -25,7 +25,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone project
 
 ```
-Git clone project link
+Git clone : https://github.com/SalahudinMalik/nodejs_crawler.git
 ```
 
 
