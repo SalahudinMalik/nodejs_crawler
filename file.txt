@@ -1,0 +1,170 @@
+----------- 
+ Name : 
+Liu Chengliang
+
+Description : 
+intelligent robotic systems,  artificial intelligence with application to machinery prognostics and health management，fluid power transmission and control， power electronics， precise agriculture，network-based monitoring, and  automated guided vehicle.
+
+Email :
+
+chlliu@sjtu.edu.cn
+----------- 
+ Name : 
+Jiang Xiuchen
+
+Description : 
+Theory and methodology of high-voltage equipment intelligentization New equipment for the smart grid
+
+Email :
+
+xcjiang@sjtu.edu.cn
+----------- 
+ Name : 
+Zhang Weidong
+
+Description : 
+Intelligent control theory; Machine learning theory; Smart grid and CPS; Robot and unmanned systems
+
+Email :
+
+wdzhang@sjtu.edu.cn
+----------- 
+ Name : 
+Wang Zhixin
+
+Description : 
+Wind power, Photovoltaic generation and control technology, Distributed generations of smart grid and intelligent distribution system, Motor control system and energy-saving system
+
+Email :
+
+wangzxin@sjtu.edu.cn
+----------- 
+ Name : 
+Jiang Chuanwen
+
+Description : 
+Optimal operation of power systems, Electricity markets, Smart grids
+
+Email :
+
+jiangcw@sjtu.edu.cn
+----------- 
+ Name : 
+Ai Qian
+
+Description : 
+Optimal operation of power systems, Power system dynamics, Electricity markets, Smart grids
+
+Email :
+
+aiqian@sjtu.edu.cn
+----------- 
+ Name : 
+Jiang Jianguo
+
+Description : 
+Development and applications of theory，system, installation for high power drive and control; High capacity power electronics
+
+Email :
+
+jiang@sjtu.edu.cn
+----------- 
+ Name : 
+Yan Zheng
+
+Description : 
+Optimal operation of power systems, power system dynamics, electricity markets, smart grids
+
+Email :
+
+yanz@sjtu.edu.cn
+----------- 
+ Name : 
+Sheng Gehao
+
+Description : 
+Condition monitoring and fault diagnosis of power equipment, big data analysis to smart grid
+
+Email :
+
+shenghe@sjtu.edu.cn
+----------- 
+ Name : 
+Feng Donghan
+
+Description : 
+Real time market operation of a smart grid with large scale renewable energy and electric vehicles penetration, electricity markets and power system economics
+
+Email :
+
+seed@sjtu.edu.cn
+----------- 
+ Name : 
+Yang Bo
+
+Description : 
+Wireless Communications， Underwater Communications and Localizations， Energy Management for Smart Grid
+
+Email :
+
+bo.yang@sjtu.edu.cn
+----------- 
+ Name : 
+He Guangyu
+
+Description : 
+The Advanced Energy Management System,Intelligent Electric Network, Power System Intelligent Scheduling Smart Grid,Power System State Estimation
+
+Email :
+
+gyhe@sjtu.edu.cn
+----------- 
+ Name : 
+Wang Chengmin
+
+Description : 
+Optimal operation of power system,Power system programming,Electricity market, Smart grid
+
+Email :
+
+wangchengmin@sjtu.edu.cn
+----------- 
+ Name : 
+Zhang Feng
+
+Description : 
+electrical theory and new technology, modern rail transportation test method and theoretical analysis, power electronic technology， modern electronic technology based on the embedded system\DSP\ virtual instruments
+
+Email :
+
+fzhang@sjtu.edu.cn
+----------- 
+ Name : 
+Jin Zhijian
+
+Description : 
+Smart Grid technology, especially in online monitoring technology for electrical power apparatus, superconductor application technology, smart charging system for EV, etc.
+
+Email :
+
+zjjin@sjtu.edu.cn
+----------- 
+ Name : 
+Qiu Caiming
+
+Description : 
+Aritificial intelligence, high-dimensinoal statistic, smart grid
+
+Email :
+
+rcqiu@sjtu.edu.cn
+----------- 
+ Name : 
+Cheng Haozhong
+
+Description : 
+power system planning, power system optimization, smart grids, power quality, voltage stability.
+
+Email :
+
+hzcheng@sjtu.edu.cn
