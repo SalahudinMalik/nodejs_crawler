@@ -1,6 +1,10 @@
 # Crawler in nodejs
 
-Crawler to get the list of professor from  Shanghai Jiao Tong University
+Crawler to get the list of professor from  Shanghai Jiao Tong University,
+
+# How I came with the idea
+
+I was frustated with searching for every professor and there research interest so I thought why whouldn't I make a crawler for me.
 
 ## Getting Started
 
