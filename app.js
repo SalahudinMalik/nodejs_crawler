@@ -15,7 +15,7 @@ var credentials = "";
 credentials = JSON.parse(fs.readFileSync("credentials.json", "utf8"));
 var token = "";
 const { client_secret, client_id, redirect_uris } = credentials.installed;
-  const oAuth2Client = new google.auth.OAuth2(client_id, client_secret);
+  const oAuth2Client = new google.auth.OAuth2(client_id, client_secret , redirect_uris[0]);
 
 // token = JSON.parse(fs.readFileSync("token.json", "utf8"));
 fs.readFile(TOKEN_PATH, async (err, token) => {
@@ -78,7 +78,7 @@ var c = new Crawler({
     done(console.log("done"));
   },
 });
-for (let a = 490; a < 500; a++) {
+for (let a = 0; a < 500; a++) {
   c.queue("http://en.sjtu.edu.cn/academics/faculty/teachers/" + a);
 }
 c.on('drain',function(){
@@ -175,7 +175,7 @@ function getNewToken(oAuth2Client) {
             oAuth2Client.getToken(code, (err, token) => {
               if (err) return console.error('Error while trying to retrieve access token', err);
               oAuth2Client.setCredentials(token);
-              token = JSON.parse(token);
+              token = token;
               // Store the token to disk for later program executions
               fs.writeFile(TOKEN_PATH, JSON.stringify(token), (err) => {
                 if (err) console.error(err);
