@@ -4,8 +4,8 @@ var Crawler = require("crawler");
 const fs = require('fs');
 const port = 3000
 
-app.get('/', (req, res) =>{ 
-    
+// app.get('/', (req, res) =>{ 
+    let i=0;
     var c = new Crawler({
         maxConnections : 10,
         // This will be called for each crawled page
@@ -14,14 +14,14 @@ app.get('/', (req, res) =>{
                 console.log(error);
             }else{
                 if(res.statusCode == 200){
+                i++;
                 
-                
-               
+                console.log('running ' , i)
                 var $ = res.$;
                 // $ is Cheerio by default
                 //a lean implementation of core jQuery designed specifically for the server
                 let disc = $(".teacher-description").text().toLowerCase();
-                if(disc.includes('power electronic') || disc.includes('smart grid') || disc.includes('convertor')) {
+                if(disc.includes('Blockchain') || disc.includes('decentralized') || disc.includes('Smart Contract')) {
                     console.log($("title").text());
                     console.log($(".teacher-show-name").text());
                     console.log($(".teacher-description").text());
@@ -66,7 +66,7 @@ app.get('/', (req, res) =>{
         html: '<p>This is a <strong>test</strong></p>'
     }]);
 
-    res.send('scrapping')
-});
+    // res.send('scrapping')
+// });
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+// app.listen(port, () => console.log(`Example app listening on port ${port}!`))
