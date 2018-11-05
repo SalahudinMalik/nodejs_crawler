@@ -25,15 +25,14 @@ A step by step series of examples that tell you how to get a development env run
 Clone project
 
 ```
-Git clone : https://github.com/SalahudinMalik/nodejs_crawler.git
+git clone https://github.com/SalahudinMalik/nodejs_crawler.git
 ```
 
 
 # Roadmap
-
 Planned features & enhancements are:
 
-* Have to save data in google spreadsheet
+* Have to save data in google spreadsheet instead of local file
 * Send auto emails to professors
 
 ## Built With
