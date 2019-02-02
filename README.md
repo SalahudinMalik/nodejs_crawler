@@ -12,10 +12,10 @@ Clone and run npm install.
 
 # Add .env file in root directory and add your google credential like this 
 
-GOOGLE_ID='****************'
-GOOGLE_SECRET='************'
-GOOGLE_REFRESH_TOKEN='**************'
-GOOGLE_SPREADSHEET_ID='*************'
+GOOGLE_ID='######'
+GOOGLE_SECRET='#######'
+GOOGLE_REFRESH_TOKEN='######'
+GOOGLE_SPREADSHEET_ID='#######'
 
 ### Prerequisites
 
