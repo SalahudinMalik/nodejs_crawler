@@ -1,5 +1,5 @@
-/node_modules
+node_modules
 token.json
 credentials.json
 global.js
-.env
+*.env
