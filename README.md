@@ -10,13 +10,14 @@ I was frustated with searching for every professor and there research interest s
 
 Clone and run npm install.
 
-# Add .env file in root directory and add your google credential like this 
+### Add .env file in root directory and add your google credential like this 
 
+```
 GOOGLE_ID='######'
 GOOGLE_SECRET='#######'
 GOOGLE_REFRESH_TOKEN='######'
 GOOGLE_SPREADSHEET_ID='#######'
-
+```
 ### Prerequisites
 
 What things you need to install the software and how to install them
