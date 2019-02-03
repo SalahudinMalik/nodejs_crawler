@@ -18,6 +18,9 @@ GOOGLE_SECRET='#######'
 GOOGLE_REFRESH_TOKEN='######'
 GOOGLE_SPREADSHEET_ID='#######'
 ```
+
+### Code to run in google spreadsheet script is in sendEmail.js file
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
