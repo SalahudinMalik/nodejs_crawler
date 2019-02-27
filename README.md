@@ -3,6 +3,8 @@
 Crawler to get the list of professor from  Shanghai Jiao Tong University,
 Link to medium article : https://medium.com/@salahudinmalik/heres-what-you-can-do-with-node-js-crawler-and-google-auto-email-4a71599257f0
 
+![alt text](https://cdn-images-1.medium.com/max/1200/1*AUXbo6ZWxqzR36AvMbtm0w.png)
+
 # How I came with the idea
 
 I was frustated with searching for every professor and there research interest so I thought why whouldn't I make a crawler for me.
