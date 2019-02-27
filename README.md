@@ -1,6 +1,7 @@
 # Crawler in nodejs
 
 Crawler to get the list of professor from  Shanghai Jiao Tong University,
+Link to medium article : https://medium.com/@salahudinmalik/heres-what-you-can-do-with-node-js-crawler-and-google-auto-email-4a71599257f0
 
 # How I came with the idea
 
